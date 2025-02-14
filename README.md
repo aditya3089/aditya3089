@@ -54,7 +54,7 @@
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://www.linkedin.com/in/aditya-raj-8919bb263/&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
@@ -66,13 +66,6 @@
 
 ---
 
-## ⚡ Fun Fact
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=I+love+animations+so+much;Even+my+README+is+animated!" alt="Typing Animation" />
-</p>
-
----
 
 ## 📈 GitHub Stats
 

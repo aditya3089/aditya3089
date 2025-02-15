@@ -1,4 +1,4 @@
-# Hi, I'm Aditya3089 👋
+# Hi, I'm Aditya 👋
 
 ### MERN Developer | Problem Solver | Animation Enthusiast
 
